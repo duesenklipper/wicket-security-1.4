@@ -29,7 +29,7 @@
 	<description>Spring Security integration with Wicket</description>
 	
 	<properties>
-		<spring.version>3.0.3.RELEASE</spring.version>
+		<spring.version>5.2.10.RELEASE</spring.version>
 	</properties>
 
 	<build>
