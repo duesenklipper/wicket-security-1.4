@@ -9,7 +9,7 @@
 	<name>Quickstart project for Swarm</name>
 	<properties>
 		<wicket.version>1.4.7</wicket.version>
-		<jetty.version>6.1.4</jetty.version>
+		<jetty.version>6.1.23</jetty.version>
 		<slf4j.version>1.4.2</slf4j.version>
 	</properties>
 	<dependencies>
